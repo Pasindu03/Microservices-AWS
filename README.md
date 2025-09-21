@@ -1,7 +1,7 @@
 # Student Details
-  Name : Pasindu Akalanka Yapa
-  Email : pasindu.yapa03@gmail.com
-  Student ID : 2301671049
+  - Name : Pasindu Akalanka Yapa
+  - Email : pasindu.yapa03@gmail.com
+  - Student ID : 2301671049
 
 ## Cloud Enabled Deployment In Action with AWS
 
